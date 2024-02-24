@@ -25,6 +25,6 @@ for i in dados:
         media = soma / qtd
         if i["valor"] > media:
             soma2 += 1
-print(f"Maior valor de faturamento: R${maior}, dia:{diamaior}.")
-print(f"Menor valor de faturamento: R${menor}, dia:{diamenor}.")
+print(f"Maior valor de faturamento: R${maior}, dia: {diamaior}.")
+print(f"Menor valor de faturamento: R${menor}, dia: {diamenor}.")
 print(f"Número de dias que o faturamento foi maior que a média: {soma2} dias.")

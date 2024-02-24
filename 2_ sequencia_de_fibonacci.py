@@ -11,4 +11,4 @@ if i == 0:
 elif i == numero3:
     print("O número está na sequência.")
 else:
-    print("o número não está na sequência.")
+    print("O número não está na sequência.")
