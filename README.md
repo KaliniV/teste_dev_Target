@@ -58,7 +58,6 @@ MG - 16%
 ES - 15%    
 Outros - 11%
 ```
-Aqui está um exemplo de README explicativo para o código fornecido:
 
 ---
 
