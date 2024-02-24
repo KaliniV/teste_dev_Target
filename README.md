@@ -10,12 +10,12 @@ Este programa solicita ao usuário que insira um número e, em seguida, verifica
 
 ```
 Digite um número: 5
-O numero se encontra na sequência
+O número está na sequência.
 ```
 
 ```
 Digite um número: 10
-O numero não se encontra na sequência
+o número não está na sequência.
 ```
 
 ---
@@ -34,8 +34,8 @@ O programa lê os dados de faturamento de um arquivo JSON fornecido e realiza as
 Ao executar, você obterá uma saída igual a esta:
 
 ```
-Maior valor de faturamento: R$48924.2448, dia:16.
-Menor valor de faturamento: R$8414.61, dia:30.
+Maior valor de faturamento: R$48924.2448, dia: 16.
+Menor valor de faturamento: R$8414.61, dia: 30.
 Número de dias que o faturamento foi maior que a média: 9 dias.
 ```
 
@@ -65,17 +65,17 @@ Outros - 11%
 
 ## Descrição
 
-O script solicita ao usuário que insira uma string e, em seguida, inverte essa string, exibindo o resultado na saída padrão.
+O programa solicita ao usuário que insira uma string e, em seguida, inverte essa string, exibindo o resultado na saída padrão.
 
 ## Funcionamento
 
-O script faz uso de uma técnica chamada "slicing" em Python para inverter a string de forma 
+O programa faz uso de uma técnica chamada "slicing" em Python para inverter a string de forma 
 eficiente. A sintaxe `string[::-1]` é usada para criar uma nova string que é uma versão invertida da string original.
 
 
 ## Exemplo de uso
 
-Ao executar o script, você será solicitado a inserir uma string. Por exemplo:
+Ao executar o programa, você será solicitado a inserir uma string. Por exemplo:
 
 ```
 Digite sua string: Hello, World!
