@@ -1,14 +1,14 @@
 numero1 = 0
 numero2 = 1
 numero3 = 0
-i = int(input("Digite um numero: "))
+i = int(input("Digite um número: "))
 while i > numero3:
     numero3 = numero1 + numero2
     numero1 = numero2
     numero2 = numero3
 if i == 0:
-    print("O zero se encontra na sequência")
+    print("O zero está na sequência.")
 elif i == numero3:
-    print("O numero se encontra na sequência")
+    print("O número está na sequência.")
 else:
-    print("o numero não se encontra na sequência")
+    print("o número não está na sequência.")
